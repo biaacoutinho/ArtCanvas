@@ -1,0 +1,169 @@
+Z:\ESTRUTURA DE DADOS\Grafico\obj\Debug\Grafico.csproj.AssemblyReference.cache
+Z:\ESTRUTURA DE DADOS\Grafico\obj\Debug\Grafico.csproj.SuggestedBindingRedirects.cache
+Z:\ESTRUTURA DE DADOS\Grafico\obj\Debug\Grafico.frmGrafico.resources
+Z:\ESTRUTURA DE DADOS\Grafico\obj\Debug\Grafico.Properties.Resources.resources
+Z:\ESTRUTURA DE DADOS\Grafico\obj\Debug\Grafico.csproj.GenerateResource.cache
+Z:\ESTRUTURA DE DADOS\Grafico\obj\Debug\Grafico.csproj.CoreCompileInputs.cache
+Z:\ESTRUTURA DE DADOS\Grafico\bin\Debug\Grafico.exe.config
+Z:\ESTRUTURA DE DADOS\Grafico\bin\Debug\Grafico.exe
+Z:\ESTRUTURA DE DADOS\Grafico\bin\Debug\Grafico.pdb
+Z:\ESTRUTURA DE DADOS\Grafico\obj\Debug\Grafico.exe
+Z:\ESTRUTURA DE DADOS\Grafico\obj\Debug\Grafico.pdb
+D:\3° semestre\ESTRUTURAS DE DADOS\Grafico\Grafico\bin\Debug\Grafico.exe.config
+D:\3° semestre\ESTRUTURAS DE DADOS\Grafico\Grafico\bin\Debug\Grafico.exe
+D:\3° semestre\ESTRUTURAS DE DADOS\Grafico\Grafico\bin\Debug\Grafico.pdb
+D:\3° semestre\ESTRUTURAS DE DADOS\Grafico\Grafico\obj\Debug\Grafico.csproj.AssemblyReference.cache
+D:\3° semestre\ESTRUTURAS DE DADOS\Grafico\Grafico\obj\Debug\Grafico.csproj.SuggestedBindingRedirects.cache
+D:\3° semestre\ESTRUTURAS DE DADOS\Grafico\Grafico\obj\Debug\Grafico.frmGrafico.resources
+D:\3° semestre\ESTRUTURAS DE DADOS\Grafico\Grafico\obj\Debug\Grafico.Properties.Resources.resources
+D:\3° semestre\ESTRUTURAS DE DADOS\Grafico\Grafico\obj\Debug\Grafico.csproj.GenerateResource.cache
+D:\3° semestre\ESTRUTURAS DE DADOS\Grafico\Grafico\obj\Debug\Grafico.csproj.CoreCompileInputs.cache
+D:\3° semestre\ESTRUTURAS DE DADOS\Grafico\Grafico\obj\Debug\Grafico.exe
+D:\3° semestre\ESTRUTURAS DE DADOS\Grafico\Grafico\obj\Debug\Grafico.pdb
+C:\Users\u22121\Desktop\Grafico\Grafico\bin\Debug\Grafico.exe.config
+C:\Users\u22121\Desktop\Grafico\Grafico\bin\Debug\Grafico.exe
+C:\Users\u22121\Desktop\Grafico\Grafico\bin\Debug\Grafico.pdb
+C:\Users\u22121\Desktop\Grafico\Grafico\obj\Debug\Grafico.csproj.AssemblyReference.cache
+C:\Users\u22121\Desktop\Grafico\Grafico\obj\Debug\Grafico.csproj.SuggestedBindingRedirects.cache
+C:\Users\u22121\Desktop\Grafico\Grafico\obj\Debug\Grafico.frmGrafico.resources
+C:\Users\u22121\Desktop\Grafico\Grafico\obj\Debug\Grafico.Properties.Resources.resources
+C:\Users\u22121\Desktop\Grafico\Grafico\obj\Debug\Grafico.csproj.GenerateResource.cache
+C:\Users\u22121\Desktop\Grafico\Grafico\obj\Debug\Grafico.csproj.CoreCompileInputs.cache
+C:\Users\u22121\Desktop\Grafico\Grafico\obj\Debug\Grafico.exe
+C:\Users\u22121\Desktop\Grafico\Grafico\obj\Debug\Grafico.pdb
+C:\Users\u22122\Desktop\Grafico\Grafico\bin\Debug\Grafico.exe.config
+C:\Users\u22122\Desktop\Grafico\Grafico\bin\Debug\Grafico.exe
+C:\Users\u22122\Desktop\Grafico\Grafico\bin\Debug\Grafico.pdb
+C:\Users\u22122\Desktop\Grafico\Grafico\obj\Debug\Grafico.csproj.AssemblyReference.cache
+C:\Users\u22122\Desktop\Grafico\Grafico\obj\Debug\Grafico.csproj.SuggestedBindingRedirects.cache
+C:\Users\u22122\Desktop\Grafico\Grafico\obj\Debug\Grafico.frmGrafico.resources
+C:\Users\u22122\Desktop\Grafico\Grafico\obj\Debug\Grafico.Properties.Resources.resources
+C:\Users\u22122\Desktop\Grafico\Grafico\obj\Debug\Grafico.csproj.GenerateResource.cache
+C:\Users\u22122\Desktop\Grafico\Grafico\obj\Debug\Grafico.csproj.CoreCompileInputs.cache
+C:\Users\u22122\Desktop\Grafico\Grafico\obj\Debug\Grafico.exe
+C:\Users\u22122\Desktop\Grafico\Grafico\obj\Debug\Grafico.pdb
+C:\Users\u22122\Desktop\Grafico2\Grafico\bin\Debug\Grafico.exe.config
+C:\Users\u22122\Desktop\Grafico2\Grafico\bin\Debug\Grafico.exe
+C:\Users\u22122\Desktop\Grafico2\Grafico\bin\Debug\Grafico.pdb
+C:\Users\u22122\Desktop\Grafico2\Grafico\obj\Debug\Grafico.csproj.AssemblyReference.cache
+C:\Users\u22122\Desktop\Grafico2\Grafico\obj\Debug\Grafico.csproj.SuggestedBindingRedirects.cache
+C:\Users\u22122\Desktop\Grafico2\Grafico\obj\Debug\Grafico.frmGrafico.resources
+C:\Users\u22122\Desktop\Grafico2\Grafico\obj\Debug\Grafico.Properties.Resources.resources
+C:\Users\u22122\Desktop\Grafico2\Grafico\obj\Debug\Grafico.csproj.GenerateResource.cache
+C:\Users\u22122\Desktop\Grafico2\Grafico\obj\Debug\Grafico.csproj.CoreCompileInputs.cache
+C:\Users\u22122\Desktop\Grafico2\Grafico\obj\Debug\Grafico.exe
+C:\Users\u22122\Desktop\Grafico2\Grafico\obj\Debug\Grafico.pdb
+D:\3° semestre\ESTRUTURAS DE DADOS\Grafico2\Grafico\bin\Debug\Grafico.exe.config
+D:\3° semestre\ESTRUTURAS DE DADOS\Grafico2\Grafico\bin\Debug\Grafico.exe
+D:\3° semestre\ESTRUTURAS DE DADOS\Grafico2\Grafico\bin\Debug\Grafico.pdb
+D:\3° semestre\ESTRUTURAS DE DADOS\Grafico2\Grafico\obj\Debug\Grafico.csproj.AssemblyReference.cache
+D:\3° semestre\ESTRUTURAS DE DADOS\Grafico2\Grafico\obj\Debug\Grafico.csproj.SuggestedBindingRedirects.cache
+D:\3° semestre\ESTRUTURAS DE DADOS\Grafico2\Grafico\obj\Debug\Grafico.frmGrafico.resources
+D:\3° semestre\ESTRUTURAS DE DADOS\Grafico2\Grafico\obj\Debug\Grafico.Properties.Resources.resources
+D:\3° semestre\ESTRUTURAS DE DADOS\Grafico2\Grafico\obj\Debug\Grafico.csproj.GenerateResource.cache
+D:\3° semestre\ESTRUTURAS DE DADOS\Grafico2\Grafico\obj\Debug\Grafico.csproj.CoreCompileInputs.cache
+D:\3° semestre\ESTRUTURAS DE DADOS\Grafico2\Grafico\obj\Debug\Grafico.exe
+D:\3° semestre\ESTRUTURAS DE DADOS\Grafico2\Grafico\obj\Debug\Grafico.pdb
+C:\Users\u22121\Desktop\Grafico\bin\Debug\Grafico.exe.config
+C:\Users\u22121\Desktop\Grafico\bin\Debug\Grafico.exe
+C:\Users\u22121\Desktop\Grafico\bin\Debug\Grafico.pdb
+C:\Users\u22121\Desktop\Grafico\obj\Debug\Grafico.csproj.AssemblyReference.cache
+C:\Users\u22121\Desktop\Grafico\obj\Debug\Grafico.csproj.SuggestedBindingRedirects.cache
+C:\Users\u22121\Desktop\Grafico\obj\Debug\Grafico.frmGrafico.resources
+C:\Users\u22121\Desktop\Grafico\obj\Debug\Grafico.Properties.Resources.resources
+C:\Users\u22121\Desktop\Grafico\obj\Debug\Grafico.csproj.GenerateResource.cache
+C:\Users\u22121\Desktop\Grafico\obj\Debug\Grafico.csproj.CoreCompileInputs.cache
+C:\Users\u22121\Desktop\Grafico\obj\Debug\Grafico.exe
+C:\Users\u22121\Desktop\Grafico\obj\Debug\Grafico.pdb
+D:\3° semestre\Grafico\bin\Debug\Grafico.exe.config
+D:\3° semestre\Grafico\bin\Debug\Grafico.exe
+D:\3° semestre\Grafico\bin\Debug\Grafico.pdb
+D:\3° semestre\Grafico\obj\Debug\Grafico.csproj.AssemblyReference.cache
+D:\3° semestre\Grafico\obj\Debug\Grafico.csproj.SuggestedBindingRedirects.cache
+D:\3° semestre\Grafico\obj\Debug\Grafico.frmGrafico.resources
+D:\3° semestre\Grafico\obj\Debug\Grafico.Properties.Resources.resources
+D:\3° semestre\Grafico\obj\Debug\Grafico.csproj.GenerateResource.cache
+D:\3° semestre\Grafico\obj\Debug\Grafico.csproj.CoreCompileInputs.cache
+D:\3° semestre\Grafico\obj\Debug\Grafico.exe
+D:\3° semestre\Grafico\obj\Debug\Grafico.pdb
+C:\Users\Bia Coutinho\Desktop\Grafico\Grafico\bin\Debug\Grafico.exe.config
+C:\Users\Bia Coutinho\Desktop\Grafico\Grafico\bin\Debug\Grafico.exe
+C:\Users\Bia Coutinho\Desktop\Grafico\Grafico\bin\Debug\Grafico.pdb
+C:\Users\Bia Coutinho\Desktop\Grafico\Grafico\obj\Debug\Grafico.csproj.AssemblyReference.cache
+C:\Users\Bia Coutinho\Desktop\Grafico\Grafico\obj\Debug\Grafico.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bia Coutinho\Desktop\Grafico\Grafico\obj\Debug\Grafico.frmGrafico.resources
+C:\Users\Bia Coutinho\Desktop\Grafico\Grafico\obj\Debug\Grafico.Properties.Resources.resources
+C:\Users\Bia Coutinho\Desktop\Grafico\Grafico\obj\Debug\Grafico.csproj.GenerateResource.cache
+C:\Users\Bia Coutinho\Desktop\Grafico\Grafico\obj\Debug\Grafico.csproj.CoreCompileInputs.cache
+C:\Users\Bia Coutinho\Desktop\Grafico\Grafico\obj\Debug\Grafico.exe
+C:\Users\Bia Coutinho\Desktop\Grafico\Grafico\obj\Debug\Grafico.pdb
+C:\Users\URICH\Desktop\''\PROJETINHOS\2023\C#\Grafico\bin\Debug\Grafico.exe.config
+C:\Users\URICH\Desktop\''\PROJETINHOS\2023\C#\Grafico\bin\Debug\Grafico.exe
+C:\Users\URICH\Desktop\''\PROJETINHOS\2023\C#\Grafico\bin\Debug\Grafico.pdb
+C:\Users\URICH\Desktop\''\PROJETINHOS\2023\C#\Grafico\obj\Debug\Grafico.csproj.AssemblyReference.cache
+C:\Users\URICH\Desktop\''\PROJETINHOS\2023\C#\Grafico\obj\Debug\Grafico.csproj.SuggestedBindingRedirects.cache
+C:\Users\URICH\Desktop\''\PROJETINHOS\2023\C#\Grafico\obj\Debug\Grafico.frmGrafico.resources
+C:\Users\URICH\Desktop\''\PROJETINHOS\2023\C#\Grafico\obj\Debug\Grafico.Properties.Resources.resources
+C:\Users\URICH\Desktop\''\PROJETINHOS\2023\C#\Grafico\obj\Debug\Grafico.csproj.GenerateResource.cache
+C:\Users\URICH\Desktop\''\PROJETINHOS\2023\C#\Grafico\obj\Debug\Grafico.csproj.CoreCompileInputs.cache
+C:\Users\URICH\Desktop\''\PROJETINHOS\2023\C#\Grafico\obj\Debug\Grafico.exe
+C:\Users\URICH\Desktop\''\PROJETINHOS\2023\C#\Grafico\obj\Debug\Grafico.pdb
+C:\Users\Bia Coutinho\Downloads\Grafico (1)\Grafico\bin\Debug\Grafico.exe.config
+C:\Users\Bia Coutinho\Downloads\Grafico (1)\Grafico\bin\Debug\Grafico.exe
+C:\Users\Bia Coutinho\Downloads\Grafico (1)\Grafico\bin\Debug\Grafico.pdb
+C:\Users\Bia Coutinho\Downloads\Grafico (1)\Grafico\obj\Debug\Grafico.csproj.AssemblyReference.cache
+C:\Users\Bia Coutinho\Downloads\Grafico (1)\Grafico\obj\Debug\Grafico.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bia Coutinho\Downloads\Grafico (1)\Grafico\obj\Debug\Grafico.frmGrafico.resources
+C:\Users\Bia Coutinho\Downloads\Grafico (1)\Grafico\obj\Debug\Grafico.Properties.Resources.resources
+C:\Users\Bia Coutinho\Downloads\Grafico (1)\Grafico\obj\Debug\Grafico.csproj.GenerateResource.cache
+C:\Users\Bia Coutinho\Downloads\Grafico (1)\Grafico\obj\Debug\Grafico.csproj.CoreCompileInputs.cache
+C:\Users\Bia Coutinho\Downloads\Grafico (1)\Grafico\obj\Debug\Grafico.exe
+C:\Users\Bia Coutinho\Downloads\Grafico (1)\Grafico\obj\Debug\Grafico.pdb
+C:\Users\u22122\Desktop\Grafico\bin\Debug\Grafico.exe.config
+C:\Users\u22122\Desktop\Grafico\bin\Debug\Grafico.exe
+C:\Users\u22122\Desktop\Grafico\bin\Debug\Grafico.pdb
+C:\Users\u22122\Desktop\Grafico\obj\Debug\Grafico.csproj.AssemblyReference.cache
+C:\Users\u22122\Desktop\Grafico\obj\Debug\Grafico.csproj.SuggestedBindingRedirects.cache
+C:\Users\u22122\Desktop\Grafico\obj\Debug\Grafico.frmGrafico.resources
+C:\Users\u22122\Desktop\Grafico\obj\Debug\Grafico.Properties.Resources.resources
+C:\Users\u22122\Desktop\Grafico\obj\Debug\Grafico.csproj.GenerateResource.cache
+C:\Users\u22122\Desktop\Grafico\obj\Debug\Grafico.csproj.CoreCompileInputs.cache
+C:\Users\u22122\Desktop\Grafico\obj\Debug\Grafico.exe
+C:\Users\u22122\Desktop\Grafico\obj\Debug\Grafico.pdb
+C:\Temp\Grafico\bin\Debug\Grafico.exe.config
+C:\Temp\Grafico\bin\Debug\Grafico.exe
+C:\Temp\Grafico\bin\Debug\Grafico.pdb
+C:\Temp\Grafico\obj\Debug\Grafico.csproj.AssemblyReference.cache
+C:\Temp\Grafico\obj\Debug\Grafico.csproj.SuggestedBindingRedirects.cache
+C:\Temp\Grafico\obj\Debug\Grafico.frmGrafico.resources
+C:\Temp\Grafico\obj\Debug\Grafico.Properties.Resources.resources
+C:\Temp\Grafico\obj\Debug\Grafico.csproj.GenerateResource.cache
+C:\Temp\Grafico\obj\Debug\Grafico.csproj.CoreCompileInputs.cache
+C:\Temp\Grafico\obj\Debug\Grafico.exe
+C:\Temp\Grafico\obj\Debug\Grafico.pdb
+C:\Temp\Grafico\bin\Debug\Grafico.exe.manifest
+C:\Temp\Grafico\bin\Debug\Grafico.application
+C:\Temp\Grafico\obj\Debug\Grafico.TrustInfo.xml
+C:\Temp\Grafico\obj\Debug\Grafico.exe.manifest
+C:\Temp\Grafico\obj\Debug\Grafico.application
+D:\Grafico\bin\Debug\Grafico.exe.config
+D:\Grafico\bin\Debug\Grafico.exe.manifest
+D:\Grafico\bin\Debug\Grafico.application
+D:\Grafico\bin\Debug\Grafico.exe
+D:\Grafico\bin\Debug\Grafico.pdb
+D:\Grafico\obj\Debug\Grafico.csproj.AssemblyReference.cache
+D:\Grafico\obj\Debug\Grafico.csproj.SuggestedBindingRedirects.cache
+D:\Grafico\obj\Debug\Grafico.frmGrafico.resources
+D:\Grafico\obj\Debug\Grafico.Properties.Resources.resources
+D:\Grafico\obj\Debug\Grafico.csproj.GenerateResource.cache
+D:\Grafico\obj\Debug\Grafico.csproj.CoreCompileInputs.cache
+D:\Grafico\obj\Debug\Grafico.TrustInfo.xml
+D:\Grafico\obj\Debug\Grafico.exe.manifest
+D:\Grafico\obj\Debug\Grafico.application
+D:\Grafico\obj\Debug\Grafico.exe
+D:\Grafico\obj\Debug\Grafico.pdb
+C:\Users\u22121\Desktop\Grafico\bin\Debug\Grafico.exe.manifest
+C:\Users\u22121\Desktop\Grafico\bin\Debug\Grafico.application
+C:\Users\u22121\Desktop\Grafico\obj\Debug\Grafico.TrustInfo.xml
+C:\Users\u22121\Desktop\Grafico\obj\Debug\Grafico.exe.manifest
+C:\Users\u22121\Desktop\Grafico\obj\Debug\Grafico.application
