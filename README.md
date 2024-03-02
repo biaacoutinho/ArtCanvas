@@ -17,20 +17,20 @@ The Graphic Editor project, developed in C# with Windows Forms, offers users a v
 - `Feature 1:` **Creative Canvas Drawing**
   - Delivers a blank canvas, inviting users to freely express their creativity through various shapes.
 <p align="center">
-  <img src="https://github.com/biaacoutinho/ArtCanvas/assets/113611897/7cd8e57d-5316-4ee6-a03d-5064961f20b5" alt="canvas-drawing" width="750">
+  <img src="https://github.com/biaacoutinho/ArtCanvas/assets/113611897/7cd8e57d-5316-4ee6-a03d-5064961f20b5" alt="canvas-drawing" width="650">
 </p>
 
 - `Feature 2:` **Shape Diversity**
   - Provides a diverse array of shape-drawing options, including circles, rectangles, lines, points and polylines.
   - Facilitates smooth transitions between different shape-drawing modes.
 <p align="center">
-  <img src="https://github.com/biaacoutinho/ArtCanvas/assets/113611897/e054090d-c49f-419c-ab9a-9b9ea586b304" alt="draw-shapes" width="750">
+  <img src="https://github.com/biaacoutinho/ArtCanvas/assets/113611897/e054090d-c49f-419c-ab9a-9b9ea586b304" alt="draw-shapes" width="650">
 </p>
 
 - `Feature 3:` **Dynamic Color Selection**
   - Empowers users to dynamically select and switch between drawing colors, adding a personalized touch to their creations.
 <p align="center">
-  <img src="https://github.com/biaacoutinho/ArtCanvas/assets/113611897/90c6eb55-9c5c-45dc-9a78-8652f15ae779" alt="select-color" width="750">
+  <img src="https://github.com/biaacoutinho/ArtCanvas/assets/113611897/90c6eb55-9c5c-45dc-9a78-8652f15ae779" alt="select-color" width="650">
 </p>
 
 - `Feature 4:` **Intelligent Storage with Linked List**
